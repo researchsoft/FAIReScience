@@ -7,10 +7,24 @@ This discussion-focused workshop examines how the FAIR (Findable, Accessible, In
 * When: 20 Sept 2021 afternoon session (more details soon)
 * Where: Connection details will be shared with registered attendees
 * Registration: Visit the [eScience registration page](https://www.escience2021.org/registration)
+* [Description](#description)
 * [Agenda](#agenda)
 * [Invited speakers](#invited-speakers)
 * [Organizing committee](#organizing-committee)
 
+## Description
+
+This half-day workshop looks at how application of the FAIR (Findable, Accessible, Interoperable, Reusable) principles is expanding in eScience beyond data to encompass software, workflows, machine learning and executable notebooks, to frame group discussion on how to advance this work. The workshop brings together leaders of FAIR initiatives on diverse research objects to enable interactive dialogue on how these efforts can leverage each other’s work, and to consider the implications for the FAIR principles of their adoption in different contexts.
+ 
+eScience promotes innovation in collaborative, computationally- or data-intensive research across all disciplines, throughout the research life cycle. This innovation has been traditionally captured in papers with text and images, and now is increasingly represented with additional digital objects, such as data, software, scripts, workflows, machine learning models, executable notebooks, etc. These objects are the actual usable scholarship, while the papers are merely static discussion about the scholarship. Thus, to build on previous scholarship, it's essential that these eScience research objects be made FAIR, both for humans and machines.
+ 
+To address this, an initial effort to define a "DATA FAIRPORT" began in 2014 at a Lorentz workshop and transitioned into developing a set of FAIR data guiding principles in 2016. The details of the FAIR principles strongly contribute to addressing this goal with regard to research data, and the principles, at a high level, are intended to apply to all research objects; both those used in research and that form the outputs of research. While the findability and accessibility principles seem to pose no major challenges in this regard, the interpretation of what interoperability and reusability entail changes across different digital objects, e.g., software, workflows, training material. 
+ 
+This session highlights some of the international efforts happening to broaden the application of FAIR principles to a diverse range of research objects.
+* Software: The [FAIR for Research Software Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) is leading the development of community-endorsed application of the FAIR principles to software. Some of the high-level FAIR data principles can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software, such as its executability, composite nature, and continuous evolution and versioning, make it necessary to revise and extend the original data principles. 
+* Workflows: Computational workflows describe the complex multi-step methods that are used for data collection, data preparation, analytics, predictive modelling, and simulation that lead to new data products. They can inherently contribute to the FAIR data principles: by processing data according to established metadata; by creating metadata themselves during the processing of data; and by tracking and recording data provenance. These properties aid data quality assessment and contribute to secondary data usage. Moreover, workflows are digital objects in their own right. This paper argues that FAIR principles for workflows need to address their specific nature in terms of their composition of executable software steps, their provenance, and their development. Taken from [FAIR computational workflows](https://doi.org/10.1162/dint_a_00033)
+* Machine Learning: Machine Learning models are a combination of a set of parameters and a particular platform that are combined to create a trained executable model that can be run on a set of data. We are currently co-leading an effort to define how [what FAIR means for these models in the Research Data Alliance](https://www.rd-alliance.org/defining-fair-machine-learning-ml)
+* Executable notebooks 
 
 
 ## Agenda
