@@ -38,7 +38,7 @@ This discussion-focused workshop examines how the FAIR (Findable, Accessible, In
 
 ## Organizing Committee
 
-This discussion-focused workshop is organized by the [RDA FAIR for Research Software (FAIR4RS) Working Group (WG)](https://www.rd-alliance.org/node/69317, jointly convened by [Research Software Alliance (ReSA)](https://www.researchsoft.org/taskforces/), [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org/node/69317).
+This discussion-focused workshop is organized by the [RDA FAIR for Research Software (FAIR4RS) Working Group (WG)](https://www.rd-alliance.org/node/69317), jointly convened by [Research Software Alliance (ReSA)](https://www.researchsoft.org/taskforces/), [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org/node/69317).
 
 | Name | Affiliation |
 | --- | --- | 
