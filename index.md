@@ -4,9 +4,9 @@ _virtually co-located with the [17th IEEE eScience 2021](https://www.escience202
 
 This discussion-focused workshop examines how the FAIR (Findable, Accessible, Interoperable, Reusable) principles are and can be applied to eScience research objects beyond data. Invited speakers will present the idea of FAIR and its application to objects such as software, workflows, machine learning models, and executable notebooks, and where FAIR is going. Invited talks will be followed by a panel discussion guided by questions suggested by the attendees. From the talks, questions and discussions, we plan a white paper to be written after the workshop, with workshop speakers and attendees as authors.
 
-* __When: __20 Sept 2021 afternoon session (more details soon)
-* __Where: __Connection details will be shared with registered attendees
-* __Registration: __Visit the [eScience registration page](https://www.escience2021.org/registration)
+* When: 20 Sept 2021 afternoon session (more details soon)
+* Where: Connection details will be shared with registered attendees
+* Registration: Visit the [eScience registration page](https://www.escience2021.org/registration)
 
 ## Agenda
 
@@ -98,7 +98,7 @@ This discussion-focused workshop examines how the FAIR (Findable, Accessible, In
 </table>
 
 ## Invited speakers
-<table border="1">
+<table>
   <tr>
     <td><img src="./images/mbarker.jpg" alt="Michelle Barker"></td>
     <td>Michelle Barker</td>
@@ -121,7 +121,7 @@ Michelle is a former Director of the [Australian Research Data Commons](https://
   <tr>
     <td><img src="./images/hShanahan.jpg" alt="Hugh Shanahan"></td>
     <td>Hugh Shanahan</td>
-    <td>Hugh Shanahan has a background in Computational Biology, focussing on transcriptomicsand metagenomics combined with a deep background in Computational and Theoretical Physics. He completed his PhD in 1994 in Lattice QCD and completed postdocs in Glasgow, Cambridge and Tsukuba before moving into Bioinformatics in 1999. In 2005 he joined the department of Computer Science at Royal Holloway, University of London where he is now Professor. 
+    <td>Hugh Shanahan has a background in Computational Biology, focussing on transcriptomicsand metagenomics combined with a deep background in Computational and Theoretical Physics. He completed his PhD in 1994 in Lattice QCD and completed postdocs in Glasgow, Cambridge and Tsukuba before moving into Bioinformatics in 1999. In 2005 he joined the department of Computer Science at Royal Holloway, University of London where he is now Professor. </td>
   </tr>
 </table>
 
