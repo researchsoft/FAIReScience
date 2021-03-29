@@ -1,0 +1,178 @@
+# Welcome to FAIReScience 2021 online workshop
+
+_virtually co-located with the [17th IEEE eScience 2021](https://www.escience2021.org/)_
+
+This discussion-focused workshop examines how the FAIR (Findable, Accessible, Interoperable, Reusable) principles are and can be applied to eScience research objects beyond data. Invited speakers will present the idea of FAIR and its application to objects such as software, workflows, machine learning models, and executable notebooks, and where FAIR is going. Invited talks will be followed by a panel discussion guided by questions suggested by the attendees. From the talks, questions and discussions, we plan a white paper to be written after the workshop, with workshop speakers and attendees as authors.
+
+* __When: __20 Sept 2021 afternoon session (more details soon)
+* __Where: __Connection details will be shared with registered attendees
+* __Registration: __Visit the [eScience registration page](https://www.escience2021.org/registration)
+
+## Agenda
+
+<table border="1">
+  <tr>
+    <th>Time</th>
+    <th>Length</th>
+    <th>Activity</th>
+    <th>Participant</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>Introduction to the workshop</td>
+    <td>Leyla Jael G. Castro</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>FAIR for research software</td>
+    <td>Michelle Barker</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>FAIR for Workflows</td>
+    <td>Carole Goble</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>Active break</br>Add your thoughts/questions to the board</td>
+    <td>All</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>FAIR for Machine Learning</td>
+    <td>Dan S. Katz</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>FAIR for executable notebooks</td>
+    <td>Hugh Shanahan</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>Future of FAIR</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10'</td>
+    <td>Active break</br>Add your thoughts/questions to the board</td>
+    <td>All</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>20'</td>
+    <td>Coffee break</td>
+    <td>All</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>65'</td>
+    <td>Open discussion</td>
+    <td>Mark Leggott (moderator) and invited speakers</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>15'</td>
+    <td>Final words</td>
+    <td>Invited speakers</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>40'</td>
+    <td>White paper braistorming</td>
+    <td>All (optional)</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>10'</td>
+    <td>Wrap-up</td>
+    <td>Leyla Jael G. Castro</td>
+  </tr>
+</table>
+
+## Invited speakers
+<table border="1">
+  <tr>
+    <td><img src="./images/mbarker.jpg" alt="Michelle Barker"></td>
+    <td>Michelle Barker</td>
+    <td>Dr Michelle Barker has extensive expertise in open science, research software, digital workforce capability and digital research infrastructure. As a sociologist, Michelle is passionate about building collaborative partnerships to achieve system change.
+
+She is Co-chair of the [Research Data Alliance](https://www.rd-alliance.org/) [Organisational Advisory Board](https://rd-alliance.org/about-rda/our-leadership/rda-organisational-advisory-board.html), recently chaired the OECD Expert Group on [digital skills for the research sector](https://www.oecd-ilibrary.org/science-and-technology/building-digital-workforce-capacity-and-skills-for-data-intensive-science_e08aa3bb-en), was a member of the OECD Expert Group on [Socioeconomic Impact of Research Infrastructures](https://www.oecd-ilibrary.org/science-and-technology/reference-framework-for-assessing-the-scientific-and-socio-economic-impact-of-research-infrastructures_3ffee43b-en), and is a former Advisory Committee Member of the [US Software Sustainability Institute (URSSI)](http://urssi.us/).
+
+Michelle is a former Director of the [Australian Research Data Commons](https://ardc.edu.au/), where she led the strategic planning for the Australian government’s $180 million, five-year investment in ARDC, the [national research software infrastructure investment program](https://nectar.org.au/labs/), and developed a national strategy to enhance digital workforce capacity in the research sector. She has also has convened conferences including the [IEEE International Conference on e-Science](https://escience-conference.org/) [Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE)](https://escience-conference.org/), and the [International Workshop on Science Gateways](http://iwsg-life.org/site/iwsglife/).</td>
+  </tr>
+  <tr>
+    <td><img src="./images/cgoble.jpg" alt="Carole Goble"></td>
+    <td>Carole Goble</td>
+    <td>Carole is a Professor of Computer Science at the University of Manchester. She is on the leadership team and the godmother of ResearchObject.org. Her team in the eScience Lab at the Manchester have a mission to disseminate knowledge about research objects, their concept and their adoption. She has spent 25 years working in e-Science on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of discipline, especially in the life sciences where she was an early advocate of the Semantic Web/Linked Data. She has worked on numerous EU e-Infrastructure projects including Wf4ever which first developed the Research Object model. She is the co-founder of the UK’s Software Sustainability Institute and cares about quality research software and reproducibility by building platforms people actually use, including myExperiment.org and workflowhub.eu workflow repositories and the FAIRDOMHub.org for systems biology asset sharing all of which use Research Objects in some form. She is the co-lead of the interoperability platform for ELIXIR, the EU Research Infrastructure for Life Sciences and Head of Node of ELIXIR-UK. She was part of the founding of FORCE11 and an author of the infamous FAIR data paper. She serves on SWSA, was the OC of ISWC2014 and in 2020 serves as the co-chair of the Vision track.</td>
+  </tr>
+  <tr>
+    <td><img src="./images/dkatz.png" alt="Daniel S. Katz"></td>
+    <td>Daniel S. Katz</td>
+    <td>Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), Research Associate Professor in Computer Science (CS), Research Associate Professor in Electrical and Computer Engineering (ECE), Research Associate Professor in the School of Information Sciences (iSchool), and Faculty Affiliate in Computational Science and Engineering (CSE) at the University of Illinois Urbana-Champaign. He is also a Better Scientific Software (BSSw) Fellow and Guest Faculty at Argonne National Laboratory. He was previously a Senior Fellow in the Computation Institute (CI) at the University of Chicago and Argonne National Laboratory (2009-2016), a Program Director in the Division of Advanced Cyberinfrastructure at the National Science Foundation (2012-2016), Director for Cyberinfrastructure Development at the Center for Computation & Technology (CCT), Louisiana State University (LSU) (2006-2009), and Adjunct Associate Professor in the LSU Department of Electrical and Computer Engineering (2006-2013), Open Grid Forum Area Co-director for Applications (2010-2012), and TeraGrid GIG Director of Science (2008-2011). From 1996 to 2006, he was at JPL in a variety of roles, including: Principal Member of the Information Systems and Computer Science Staff, Supervisor of the Parallel Applications Technologies group, Area Program Manager of High End Computing in the Space Mission Information Technology Office, Applications Project Element Manager for the Remote Exploration and Experimentation (REE) Project, and Team Leader for MOD Tool (a tool for the integrated design of microwave and millimeter-wave instruments). From 1993 to 1996, he was employed by Cray Research (and later by Silicon Graphics) as a Computational Scientist on-site at JPL and Caltech, specializing in parallel implementation of computational electromagnetic algorithms.</td>
+  </tr>
+  <tr>
+    <td><img src="./images/hShanahan.jpg" alt="Hugh Shanahan"></td>
+    <td>Hugh Shanahan</td>
+    <td>Hugh Shanahan has a background in Computational Biology, focussing on transcriptomicsand metagenomics combined with a deep background in Computational and Theoretical Physics. He completed his PhD in 1994 in Lattice QCD and completed postdocs in Glasgow, Cambridge and Tsukuba before moving into Bioinformatics in 1999. In 2005 he joined the department of Computer Science at Royal Holloway, University of London where he is now Professor. 
+  </tr>
+</table>
+
+Since 2015 he been a co-chair of the CODATA-RDA schools in Research Data Science that has delivered training in Data Science methods for researchers to students from approximately 40 countries. He is a member of the FAIRsFAIR consortium which is focussed on the development of an overall ​knowledge infrastructure on academic quality data management, procedures, standards, metrics and related matters, based on the FAIR principles.</td>
+  </tr>
+</table>
+
+## Organizing Committee
+
+This discussion-focused workshop is organized by the [RDA FAIR for Research Software (FAIR4RS) Working Group (WG)](https://www.rd-alliance.org/node/69317, jointly convened by [Research Software Alliance (ReSA)](https://www.researchsoft.org/taskforces/), [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org/node/69317).
+
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Affiliation</th>
+  </tr>
+  <tr>
+    <td>Michelle Barker</td>
+    <td>[Research Software Alliance (ReSA)](https://www.researchsoft.org/)</td>
+  </tr>
+  <tr>
+    <td>Leyla Jael G. Castro</td>
+    <td>[ZB MED Information Centre for Life Sciences](https://www.zbmed.de/en/)</td>
+  </tr>
+  <tr>
+    <td>Morane Gruenpeter</td>
+    <td>[INRIA](https://www.inria.fr/en)</td>
+  </tr>
+  <tr>
+    <td>Jennifer Harrow</td>
+    <td>[ELIXIR Hub](https://elixir-europe.org/about-us/who-we-are/hub)</td>
+  </tr>
+  <tr>
+    <td>Neil Chue Hong</td>
+    <td>[Software Sustainability Institute](https://www.software.ac.uk/)</td>
+  </tr>
+  <tr>
+    <td>Daniel S. Katz</td>
+    <td>[University of Illinois Urbana-Champaign](https://illinois.edu/)</td>
+  </tr>
+  <tr>
+    <td>Carlos Martinez</td>
+    <td>[Netherlands eScience Center](https://www.esciencecenter.nl/)</td>
+  </tr>  
+  <tr>
+    <td>Paula Andrea Martinez</td>
+    <td>[Research Software Alliance (ReSA)](https://www.researchsoft.org/)</td>
+  </tr>
+  <tr>
+    <td>Fotis E. Psomopoulos</td>
+    <td>[Institute of Applied Biosciences, Centre for Research and Technology Hellas](https://www.inab.certh.gr/)</td>
+  </tr>
+</table>
+
