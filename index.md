@@ -7,6 +7,11 @@ This discussion-focused workshop examines how the FAIR (Findable, Accessible, In
 * When: 20 Sept 2021 afternoon session (more details soon)
 * Where: Connection details will be shared with registered attendees
 * Registration: Visit the [eScience registration page](https://www.escience2021.org/registration)
+* [Agenda](#agenda)
+* [Invited speakers](#invited-speakers)
+* [Organizing committee](#organizing-committee)
+
+
 
 ## Agenda
 
