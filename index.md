@@ -4,7 +4,7 @@ _virtually co-located with the [17th IEEE eScience 2021](https://www.escience202
 
 This discussion-focused workshop examines how the FAIR (Findable, Accessible, Interoperable, Reusable) principles are and can be applied to eScience research objects beyond data. Invited speakers will present the idea of FAIR and its application to objects such as software, workflows, machine learning models, and executable notebooks, and where FAIR is going. Invited talks will be followed by a panel discussion guided by questions suggested by the attendees. From the talks, questions and discussions, we plan a white paper to be written after the workshop, with workshop speakers and attendees as authors.
 
-* When: 20 Sept 2021 afternoon session (more details soon)
+* When: 20 Sept 2021 at 16:00 CEST ([see it date and time in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIReScience&iso=20210920T16&p1=37&ah=4))
 * Where: Connection details will be shared with registered attendees
 * Registration: Visit the [eScience registration page](https://www.escience2021.org/registration)
 * [Description](#description)
@@ -29,21 +29,22 @@ This session highlights some of the international efforts happening to broaden t
 
 ## Agenda
 
-| Time | Length| Activity | Participant |
+| Starting at | Length| Activity | Participant |
 | --- | --- | --- | --- | 
-| | 10' | Introduction to the workshop | Leyla Jael G. Castro | 
-| | 10' | FAIR for research software | Michelle Barker | 
-| | 10' | FAIR for Workflows | Carole Goble | 
-| | 10' | Active break</br>Add your thoughts/questions to the board | All | 
-| | 10' | FAIR for Machine Learning | Daniel S. Katz | 
-| | 10' | FAIR for executable notebooks | Hugh Shanahan | 
-| | 10' | Future of FAIR | | 
-| | 10' | Active break - Add your thoughts/questions to the board | All | 
-| | 20' | Coffee break | All | 
-| | 65' | Open discussion | Mark Leggott (moderator) and invited speakers |
-| | 15' | Final words | Invited speakers |
-| | 40' | White paper braistorming | All (optional) |
-| | 10' | Wrap-up | Leyla Jael G. Castro |
+| 16:00 | 10' | Introduction to the workshop | Leyla Jael G. Castro | 
+| 16:10 | 10' | FAIR for research software | Michelle Barker | 
+| 16:20 | 10' | FAIR for Workflows | Carole Goble | 
+| 16:30 | 10' | Active break - Add your thoughts/questions to the board | All | 
+| 16:40 | 10' | FAIR for Machine Learning | Daniel S. Katz | 
+| 16:50 | 10' | FAIR for executable notebooks | Hugh Shanahan | 
+| 17:00 | 10' | FAIR next steps | Mark D. Wilkinson | 
+| 17:10 | 10' | Active break - Add your thoughts/questions to the board | All | 
+| 17:20 | 20' | Coffee break | All | 
+| 17:40 | 70' | Open discussion | Mark Leggott (moderator) and invited speakers |
+| 18:50 | 15' | Final words | Invited speakers |
+| 19:05 | 45' | White paper braistorming | All (optional) |
+| 19:50 | 10' | Wrap-up | Leyla Jael G. Castro |
+| 20:00 |  | Wrap-up | Leyla Jael G. Castro |
 
 
 ## Invited speakers
@@ -53,6 +54,7 @@ This session highlights some of the international efforts happening to broaden t
 | ![Carole Goble](./images/cgoble.jpg)<br/>Carole Goble | Carole Goble CBE FREng FBCS is a Professor of Computer Science at the University of Manchester, UK where leads a team of Researchers, Research Software Engineers and Data Stewards. She has spent 25 years working in e-Science on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines. She has led numerous e-Infrastructure projects including: Taverna, one of the first open source computational workflow management systems and [myExperiment.org](https://www.myexperiment.org/), the first system agnostic web-based sharing platform for workflows and their related data. She was the scientific lead of the [WF4ever project](http://wf4ever.org/) which pioneered the notion of workflows as preservable and reproducible Research Objects. She currently co-leads the WorkflowHub.eu registry for workflows, the [RO-Crate](https://www.researchobject.org/ro-crate/) community initiative for packaging, exchanging and publishing workflows as Research Objects and serves on the Advisory Board of the [Common Workflow Language](https://www.commonwl.org/). These are key components of the EOSC-Life Cluster Workflow Collaboratory (made up of 13 European Research Infrastructures in Biomedical Science) and a resource of the EU COVID data portal. The tools of the Collaboratory are used by other projects from natural history collection digitisation to climate change modelling. Carole is a co-founder of the [UK’s Software Sustainability Institute](https://www.software.ac.uk/) and cares about quality research software and reproducibility by building platforms people really use with teams of people distributed across projects, institutions and countries. Carole also leads the pan-institutional F[FAIRDOM Consortium](https://fair-dom.org/) which manages FAIR data for systems biology and biomedical projects and directs the digital infrastructure for the IBISBA Research Infrastructure for Industrial Biotechnology. She co-leads the interoperability platform for [ELIXIR](https://elixir-europe.org/), the EU Research Infrastructure for Life Sciences and is Head of Node of ELIXIR-UK.  She serves on numerous boards and committees including the G7 Open Science Working Group. |
 | ![Daniel S. Katz](./images/dkatz.png)<br/>Daniel S. Katz | Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), Research Associate Professor in Computer Science (CS), Research Associate Professor in Electrical and Computer Engineering (ECE), Research Associate Professor in the School of Information Sciences (iSchool), and Faculty Affiliate in Computational Science and Engineering (CSE) at the University of Illinois Urbana-Champaign. He is also a Better Scientific Software (BSSw) Fellow and Guest Faculty at Argonne National Laboratory. His research interests are in applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues, including citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He co-founded the Journal of Open Source Software, the US RSE Association, and the Research Software Alliance (ReSA), and co-leads the FORCE11 Software Citation Implementation Working Group and the FORCE11/RDA/ReSA Fair for Research Software group. |
 | ![Hugh Shanahan](./images/hShanahan.jpg)<br/>Hugh Shanahan | Hugh Shanahan has a background in Computational Biology, focussing on transcriptomicsand metagenomics combined with a deep background in Computational and Theoretical Physics. He completed his PhD in 1994 in Lattice QCD and completed postdocs in Glasgow, Cambridge and Tsukuba before moving into Bioinformatics in 1999. In 2005 he joined the department of Computer Science at Royal Holloway, University of London where he is now Professor. Since 2015 he been a co-chair of the CODATA-RDA schools in Research Data Science that has delivered training in Data Science methods for researchers to students from approximately 40 countries. He is a member of the FAIRsFAIR consortium which is focussed on the development of an overall ​knowledge infrastructure on academic quality data management, procedures, standards, metrics and related matters, based on the FAIR principles. |
+| ![Mark D Wilkinson](./images/mWilkinson.jpeg)<br/>Mark D Wilkinson | Mark D. Wilkinson currently works at the Centre for Plant Biotechnology and Genomics, Universidad Politécnica de Madrid. He is also a BBVA-UPM Industry Chair on Biotechnology and Isaac Peral Distinguished Researcher. Mark does research in Web Semantics, Data linking, Artificial Intelligence applied to "big" biological data, Natural Science, Engineering and Medicine and Information Science. Mark is one of the pioneers on 'FAIR Data'. |
 
 
 ## Organizing Committee
