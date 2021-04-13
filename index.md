@@ -44,7 +44,7 @@ This session highlights some of the international efforts happening to broaden t
 | 18:50 | 15' | Final words | Invited speakers |
 | 19:05 | 45' | White paper braistorming | All (optional) |
 | 19:50 | 10' | Wrap-up | Leyla Jael G. Castro |
-| 20:00 |  | Wrap-up | Leyla Jael G. Castro |
+| 20:00 |  | End of the workshop| |
 
 
 ## Invited speakers
