@@ -31,8 +31,8 @@ This session highlights some of the international efforts happening to broaden t
 
 | Starting at | Length| Activity | Participant |
 | --- | --- | --- | --- | 
-| 16:00 | 10' | Introduction to the workshop | Leyla Jael G. Castro | 
-| 16:10 | 10' | FAIR for research software | Michelle Barker | 
+| 16:00 | 10' | Introduction to the workshop | Leyla Jael Castro | 
+| 16:10 | 10' | FAIR for research software | Leyla Jael Castro | 
 | 16:20 | 10' | FAIR for Workflows | Carole Goble | 
 | 16:30 | 10' | Active break - Add your thoughts/questions to the board | All | 
 | 16:40 | 10' | FAIR for Machine Learning | Daniel S. Katz | 
@@ -43,7 +43,7 @@ This session highlights some of the international efforts happening to broaden t
 | 17:40 | 70' | Open discussion | Mark Leggott (moderator) and invited speakers |
 | 18:50 | 15' | Final words | Invited speakers |
 | 19:05 | 45' | White paper brainstorming | All (optional) |
-| 19:50 | 10' | Wrap-up | Leyla Jael G. Castro |
+| 19:50 | 10' | Wrap-up | Leyla Jael Castro |
 | 20:00 |  | End of the workshop| |
 
 
