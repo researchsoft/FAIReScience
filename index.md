@@ -1,4 +1,4 @@
-# Welcome to FAIReScience 2021 online workshop
+# FAIReScience 2021 online workshop
 
 _virtually co-located with the [17th IEEE eScience 2021](https://www.escience2021.org/)_
 
