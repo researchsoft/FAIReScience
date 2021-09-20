@@ -35,7 +35,7 @@ This session highlights some of the international efforts happening to broaden t
 | 16:10 | 10' | FAIR for research software | Leyla Jael Castro | 
 | 16:20 | 10' | FAIR for Workflows | Carole Goble | 
 | 16:30 | 10' | Active break - Add your thoughts/questions to the board | All | 
-| 16:40 | 10' | FAIR for Machine Learning | Daniel S. Katz | 
+| 16:40 | 10' | [FAIR for Machine Learning](https://docs.google.com/presentation/d/1wh3iyBFnVhp9pyu4rSRC-ujsTZTKzJxEtuzk8ucrkl4/present) | Daniel S. Katz | 
 | 16:50 | 10' | FAIR for executable notebooks | Hugh Shanahan | 
 | 17:00 | 10' | FAIR next steps | Mark D. Wilkinson | 
 | 17:10 | 10' | Active break - Add your thoughts/questions to the board | All | 
