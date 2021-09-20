@@ -1,12 +1,12 @@
 # FAIReScience 2021 online workshop
 
-_virtually co-located with the [17th IEEE eScience 2021](https://www.escience2021.org/)_
+_virtually co-located with the [17th IEEE International Conference on eScience (eScience 2021)](https://www.escience2021.org/)_
 
 This discussion-focused workshop examines how the FAIR (Findable, Accessible, Interoperable, Reusable) principles are and can be applied to eScience research objects beyond data. Invited speakers will present the idea of FAIR and its application to objects such as software, workflows, machine learning models, and executable notebooks, and where FAIR is going. Invited talks will be followed by a panel discussion guided by questions suggested by the attendees. From the talks, questions and discussions, we plan a white paper to be written after the workshop, with workshop speakers and attendees as authors.
 
 * When: 20 Sept 2021 at 16:00 CEST ([see it date and time in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIReScience&iso=20210920T16&p1=37&ah=4))
 * Where: Connection details will be shared with registered attendees
-* Registration: Visit the [eScience registration page](https://www.escience2021.org/registration)
+* Registration: Visit the [eScience 2021 registration page](https://www.escience2021.org/registration)
 * [Description](#description)
 * [Agenda](#agenda)
 * [Invited speakers](#invited-speakers)
